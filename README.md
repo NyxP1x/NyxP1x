@@ -1,6 +1,5 @@
 # 💫 About Me:
-<br>🚀 Currently building: [**Cablerrr**](https://cablerrr.vercel.app/)
- — a project I’m really excited about.<br>🧠 Learning: Frontend development (always pushing pixels and chasing perfect UI).<br>🛠️ Looking for help with: Backend — APIs, databases, auth, you name it.<br>💡  Fun fact: It all started with a Kali Linux YouTube video — now I’m deep in the tech rabbit hole 🕳️🐇
+<br>🚀 Currently building: [**Cablerrr**](https://cablerrr.vercel.app/), a project I’m really excited about.<br>🧠 Learning: Frontend development (always pushing pixels and chasing perfect UI).<br>🛠️ Looking for help with: Backend (APIs, databases, auth, you name it.) <br>💡  Fun fact: It all started with a Kali Linux YouTube video, now I’m deep in the tech rabbit hole 🕳️🐇
 
 
 ## 🌐 Socials:
