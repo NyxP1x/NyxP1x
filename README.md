@@ -19,6 +19,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=NyxP1x&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NyxP1x&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=NyxP1x&icon=2&color=13)](https://visitcount.itsvg.in)
